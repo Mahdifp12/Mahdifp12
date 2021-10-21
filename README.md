@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mahdifp12
-- 👀 I’m interested in: Web developer
+- 👀 I’m interested in: programming
 - 🌱 I’m currently learning: python
 - 💞️ I’m looking to collaborate on: No 
 - 📫 How to reach me ...
