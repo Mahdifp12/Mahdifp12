@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahdifp12
 - 👀 I’m interested in: programming
-- 🌱 I’m currently learning: python
-- 💞️ I’m looking to collaborate on: No 
+- 🌱 I’m currently learning: Django
+- 💞️ I’m looking to collaborate on: Yes
 - 📫 How to reach me ...
 
 <!---
