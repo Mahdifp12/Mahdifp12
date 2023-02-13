@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdifp12" alt="mahdifp12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mahdi_py" target="blank"><img src="https://img.shields.io/twitter/follow/mahdi_py?logo=twitter&style=for-the-badge" alt="mahdi_py" /></a> </p>
-
 - 🔭 I’m currently working on **Shop project**
 
 <h3 align="left">Connect with me:</h3>
