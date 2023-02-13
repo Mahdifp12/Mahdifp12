@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdifp12" alt="mahdifp12" /></a> </p>
 
-- 🔭 I’m currently working on **Shop project**
+- 🔭 I’m currently working on **Shop project & Book Shop Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
