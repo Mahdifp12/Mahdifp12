@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A logical backend developer from Iran</h3>
+<h3 align="center">Stack : Python</h3>
+<h3 align="center"> Framework : Django </h3>
 
 ![](https://github-profile-trophy.vercel.app/?username=Mahdifp12&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
