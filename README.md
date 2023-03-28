@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
-<h3 align="center">A logical backend developer from Iran</h3>
+<h3 align="center">a logical backend developer from Iran</h3>
 <h3 align="center">Stack : Python</h3>
 <h3 align="center"> Framework : Django </h3>
 
