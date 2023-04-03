@@ -5,7 +5,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Mahdifp12&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on **Shop project & Book Shop Project**
+- 🔭 I’m currently working on **<a href="https://github.com/Mahdifp12/Shop-Project">Shop project<a/> & <a href="https://github.com/Mahdifp12/book_shop">Book Shop project<a/>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
