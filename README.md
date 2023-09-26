@@ -3,8 +3,6 @@
 <h3 align="center">Stack : Python</h3>
 <h3 align="center"> Framework : Django </h3>
 
-![](https://github-profile-trophy.vercel.app/?username=Mahdifp12&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
 - 🔭 I am currently working on a few projects with the Django framework :  **<a href="https://github.com/Mahdifp12/Shop-Project">Shop project<a/> & <a href="https://github.com/Mahdifp12/book_shop" >Book Shop project<a/>**
 
 <h3 align="left">Connect with me:</h3>
