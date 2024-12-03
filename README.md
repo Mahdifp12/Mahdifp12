@@ -8,8 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mahdi_py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahdi_py" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahdi-fallaht-pishe-62b45a217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-fallaht-pishe-62b45a217" height="30" width="40" /></a>
-<a href="https://instagram.com/mahdi_f__p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdi_f__p" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahdi-
 </p>
 
 <h3 align="left">Skills | Familiar (programming language, framework, data bese, tools):</h3>
